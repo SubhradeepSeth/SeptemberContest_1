@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav{
+    display: flex;
+    
+}
+#nav>li{
+    list-style: none;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+}
+
+h1{
+    padding: 20px;
+}
+header p{
+    padding-left: 10px;
+}
+#description {
+    padding: 20px;
+}
+#attraction{
+    margin-left: 20px;
+}
+#attraction>ol{
+    padding-left: 20px;
+}
+h3{
+    padding-top: 15px;
+}
+#attraction>ul{
+    padding-left: 20px;
+}
+table,th,tr,td{
+    border: 1px solid black;
+}
+#statistics{
+    margin:20px;
+}
+#statistics h2{
+    margin-bottom: 10px;
+}
+form{
+    padding-left: 20px;
+}
+#feedback>h2{
+    padding-left:20px ;
+}
+#quote{
+    margin: 20px;
+}
+#quote p{
+    margin:5px;
+}
+#contact>p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer{
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
